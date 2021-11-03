@@ -6,7 +6,7 @@
 
 **If Google can’t reach somewhere, that thing won’t be ranked at all! So it's all about making it easier for Google.**
 
- - For starters use https://developers.google.com/web/tools/lighthouse to gain an overview of your site
+ - For starters use https://builtwith.com/ and https://developers.google.com/web/tools/lighthouse to gain an overview of your site
  - Use https://www.drlinkcheck.com/ or https://ipullrank.com/tools/map-broker/ to find broken links amd fix them ASAP
  - In my experience JS is the hot potato right now, that’s why you should use  https://www.onely.com/tools/wwjd/ to find out what your site would look like without JS - means, to find places where Google may not reach
  - Use Coverage Report and Inspect URL from Google Search Console to find out what Google sees and what not 
