@@ -20,7 +20,7 @@
 
  - Use https://ads.google.com/home/tools/keyword-planner/ and https://keywordtool.io/ to look for keywords and determine their exact intent in the target group
  - Use https://answerthepublic.com/ for Question & Answer keywords
- - Use Google suggest, Google Searches related to... , Google Autocomplete and Google People also ask for suggestions directly from Google
+ - Use 'Google Suggest' / 'Google Autocomplete', 'Google Searches related to...' and 'Google People also ask' for suggestions directly from Google
  - Don't over-use your keyword. Instead of repeating one keyword 1000x, choose 3-4-5 keywords that you will repeat several times
  - Use https://lsigraph.com/ to find alternatives for overusing your keywords. Stick to LSI Keywords; for Google these are like synonyms for you
  - Use your target keywords within 100 first words – old one, but still works
