@@ -1,6 +1,6 @@
-# One-page and technical SEO cheat sheet for 2020
+# SEO cheat sheet for 2020
 
-**Don't be afraid of the ‘technical’ in the title, here's a cheat sheet with things to look for and links to tools that don’t require coding.**
+**Here's a cheat sheet with things to look for and links to tools that don’t require coding.**
 
 ## Technical
 
